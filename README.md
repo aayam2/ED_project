@@ -1,2 +1,2 @@
-# ED_project
-Just storing stuff for ED project for collaboration
+# PHY204 Project
+The completed notebook for PHY204 project: laser beam to the moon through the atmosphere
